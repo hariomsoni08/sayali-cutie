@@ -10,7 +10,7 @@
 html {
     overflow: hidden;
     height: 100%;
-    background: linear-gradient(rgb(255 255 255 / 77%), rgb(255 4 131 / 84%)), url(../images/background.jpg);
+    background: linear-gradient(rgb(255 255 255 / 77%), rgb(255 4 131 / 84%)), url(background.jpg);
 }
 
 .icon-love {
